@@ -1,0 +1,8 @@
+#box{
+	width: 1200px;
+	height: 2650px;
+}
+
+#header,#banner,#content,#footer{
+	width: 1200px;
+}
